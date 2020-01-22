@@ -8,3 +8,5 @@ import pandas as pd
 pr = pd.read_csv("../data/order_bike2.csv",encoding='unicode_escape');
 print(pr.info())
 print(pr.shape)
+
+#jurfliu  123456_ljf
